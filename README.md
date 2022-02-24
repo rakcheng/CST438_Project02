@@ -1,9 +1,13 @@
 # CST438_Project02
 
 Members working on Project and respective Profiles:
+
 Jose Alavarez https://github.com/Jose-Alvarez
+
 Rakery Cheng https://github.com/rakcheng
+
 Anthony Herrera https://github.com/Antherrera0898
+
 Manuel Sanchez https://github.com/Manships
 
 Idea of Application: Wishlist Application
