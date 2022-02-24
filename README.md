@@ -2,7 +2,7 @@
 
 Members working on Project and respective Profiles:
 
-Jose Alavarez https://github.com/Jose-Alvarez
+Jose Alavarez https://github.com/Alvarez-Jose
 
 Rakery Cheng https://github.com/rakcheng
 
