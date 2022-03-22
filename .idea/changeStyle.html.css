@@ -1,0 +1,33 @@
+SCSS
+.username{
+    padding: 1px 5px;
+    margin-top: margin;
+    margin-right: 2;
+    margin-left: 2;
+    margin-bottom: margin;
+    fontfamily: Arial, Helvetica, sans-serif;
+
+}
+
+div.settings {
+    display:grid;
+    grid-template-columns: max-content max-content;
+    grid-gap:5px;
+}
+div.settings label       { text-align:right; }
+div.settings label:after { content: ":"; }
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
